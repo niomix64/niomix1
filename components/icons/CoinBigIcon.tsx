@@ -11,9 +11,9 @@ const CoinBigIcon: React.FC<IconProps> = ({style}) => {
   <Image
    src="/whattapcoin.png"
    alt="alt"
-   width={800}
-   height={800}
-   className="w-[90vw] h-auto"
+   width={1000}
+   height={1000}
+   className="w-[80vw] h-auto"
    style={style}
   />
  );
