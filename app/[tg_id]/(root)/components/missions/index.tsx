@@ -57,10 +57,10 @@ const Missions = ({
 				},
 				{
 					id: "grouptg4",
-					title: "Join our Дроп Майнер",
+					title: "Subscribe to MafiaDAO",
 					reward: 30000,
 					imageUrl: "/dropminer.png",
-					href: "https://t.me/drop_miner",
+					href: "https://t.me/MafiaDAO",
 					channelId: -1001736563281,
 					type: "telegram",
 				},
