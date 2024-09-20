@@ -48,10 +48,10 @@ const Missions = ({
 				},
 				{
 					id: "grouptg3",
-					title: "Join our Дропы от Мизантропа",
+					title: "Join our Chat",
 					reward: 30000,
 					imageUrl: "/DropMezantrop.png",
-					href: "https://t.me/DropMezantrop",
+					href: "https://t.me/catcoincash",
 					channelId: -1001996546020,
 					type: "telegram",
 				},
