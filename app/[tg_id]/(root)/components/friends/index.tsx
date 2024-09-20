@@ -20,8 +20,8 @@ const Friends = ({ tg_id, friends }: { tg_id: string; friends: User[] }) => {
 
 	const empty = friends.length === 0;
 
-	const ref_text = `🏆+2.5k Niowex as a first-time bonus
-💎+50k Niowex if you have Telegram Premium`;
+	const ref_text = `🏆+2.5k CatCoin as a first-time bonus
+💎+50k CatCoin if you have Telegram Premium`;
 
 	const ref_link = `https://t.me/${process.env.NEXT_PUBLIC_BOT_HANDLE}?start=rp_${tg_id}`;
 
