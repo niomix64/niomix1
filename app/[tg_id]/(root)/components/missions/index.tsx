@@ -39,8 +39,8 @@ const Missions = ({
 			missions: [
 				{
 					id: "grouptg",
-					title: "Join our NioMix channel",
-					reward: 50000,
+					title: "Subscribe to CatCoin",
+					reward: 30000,
 					imageUrl: "/logowhattap.png",
 					href: "https://t.me/niomix_ann",
 					channelId: -1002016105429,
